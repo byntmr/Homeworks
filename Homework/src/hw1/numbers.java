@@ -1,4 +1,4 @@
 package hw1;
 
-public class numbers {qwe
+public class numbers {qwewe
 }
